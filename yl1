@@ -6,6 +6,6 @@ date +"Today is %A, %B %d, %Y"
 date +"Time is %H:%M"
 echo
 echo -n "Kalender "
-echo 'date +"%B %Y"'
+date +"%B %Y"
 cal | tail -n 7
 #lõpp
